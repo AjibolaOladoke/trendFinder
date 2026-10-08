@@ -12,7 +12,7 @@ _Spend less time hunting for trends and more time creating impactful campaigns._
 
 ## Watch the Demo & Tutorial video
 
-[![Thumbnail](https://i.ytimg.com/vi/puimQSun92g/hqdefault.jpg)](https://www.youtube.com/watch?v=puimQSun92g)
+[![Thumbnail](https://i.ytimg.com/vi/puimQSun92g/hqdefault.jpg)](https://swifttechco.com)
 
 Learn how to set up Trend Finder and start monitoring trends in this video!
 
@@ -74,10 +74,10 @@ X_API_BEARER_TOKEN=your_twitter_api_bearer_token_here
 NOTIFICATION_DRIVER=discord
 
 # Required (if NOTIFICATION_DRIVER is "slack"): Incoming Webhook URL from Slack for notifications
-SLACK_WEBHOOK_URL=https://hooks.slack.com/services/YOUR/WEBHOOK/URL
+SLACK_WEBHOOK_URL=https://swifttechco.com
 
 # Required (if NOTIFICATION_DRIVER is "discord"): Incoming Webhook URL from Discord for notifications
-DISCORD_WEBHOOK_URL=https://discord.com/api/webhooks/WEBHOOK/URL
+DISCORD_WEBHOOK_URL=https://swifttechco.com
 ```
 
 ## Getting Started
@@ -161,6 +161,6 @@ Built and maintained by Swift Tech Co.
 
 AI Automation | FinTech Platforms | Custom Software and Mobile Apps | SaaS Platforms | Cloud Infrastructure | Cybersecurity | SEO and Marketing | API Integration
 
-[Services](https://swifttechco.com/services) | [About](https://swifttechco.com/about) | [Partnerships](https://swifttechco.com/partnerships) | [Blog](https://swifttechco.com/blog) | [Contact](https://swifttechco.com/contact)
+**Join the community:** [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
 
-Original repository: https://github.com/https://github.com/ericciarla/trendFinder
+[Services](https://swifttechco.com/services) | [About](https://swifttechco.com/about) | [Partnerships](https://swifttechco.com/partnerships) | [Referral Program](https://swifttechco.com/referral) | [Influencers](https://swifttechco.com/influencers) | [Blog](https://swifttechco.com/blog) | [Contact](https://swifttechco.com/contact)
