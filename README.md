@@ -1,8 +1,13 @@
 # Trend Finder 🔦
 
+## Images
+
+[![trendFinder](https://opengraph.githubassets.com/1/https://github.com/ericciarla/trendFinder)](https://www.swifttechco.com)
+
+
 **Stay on top of trending topics on social media  all in one place.**
 
-Trend Finder collects and analyzes posts from key influencers, then sends a Slack or Discord notification when it detects new trends or product launches. This has been a complete game-changer for the Firecrawl marketing team by:
+Trend Finder collects and analyzes posts from key influencers, then sends a Slack or Telegram notification when it detects new trends or product launches. This has been a complete game-changer for the Firecrawl marketing team by:
 
 - **Saving time** normally spent manually searching social channels
 - **Keeping you informed** of relevant, real-time conversations
@@ -19,7 +24,6 @@ Learn how to set up Trend Finder and start monitoring trends in this video!
 ## How it Works
 
 1. **Data Collection** 📥
-   - Monitors selected influencers' posts on Twitter/X using the X API (Warning: the X API free plan is rate limited to only monitor 1 X account every 15 min)
    - Monitors websites for new releases and news with Firecrawl's /extract
    - Runs on a scheduled basis using cron jobs
 
@@ -29,16 +33,15 @@ Learn how to set up Trend Finder and start monitoring trends in this video!
    - Analyzes sentiment and relevance
 
 3. **Notification System** 📢
-   - When significant trends are detected, sends Slack or Discord notifications based on cron job setup
+   - When significant trends are detected, sends Slack or Telegram notifications based on cron job setup
    - Provides context about the trend and its sources
    - Enables quick response to emerging opportunities
 
 ## Features
 
 - 🤖 AI-powered trend analysis using Together AI
-- 📱 Social media monitoring (Twitter/X integration)
 - 🔍 Website monitoring with Firecrawl
-- 💬 Instant Slack or Discord notifications
+- 💬 Instant Slack or Telegram notifications
 - ⏱️ Scheduled monitoring using cron jobs
 
 ## Prerequisites
@@ -70,14 +73,14 @@ FIRECRAWL_API_KEY=your_firecrawl_api_key_here
 # Required if monitoring Twitter/X trends (https://developer.x.com/)
 X_API_BEARER_TOKEN=your_twitter_api_bearer_token_here
 
-# Notification driver. Supported drivers: "slack", "discord"
-NOTIFICATION_DRIVER=discord
+# Notification driver. Supported drivers: "slack", "telegram"
+NOTIFICATION_DRIVER=telegram
 
 # Required (if NOTIFICATION_DRIVER is "slack"): Incoming Webhook URL from Slack for notifications
 SLACK_WEBHOOK_URL=https://swifttechco.com
 
-# Required (if NOTIFICATION_DRIVER is "discord"): Incoming Webhook URL from Discord for notifications
-DISCORD_WEBHOOK_URL=https://swifttechco.com
+# Required (if NOTIFICATION_DRIVER is "telegram"): Incoming Webhook URL from Telegram for notifications
+Telegram_WEBHOOK_URL=https://swifttechco.com
 ```
 
 ## Getting Started
@@ -161,6 +164,16 @@ Built and maintained by Swift Tech Co.
 
 AI Automation | FinTech Platforms | Custom Software and Mobile Apps | SaaS Platforms | Cloud Infrastructure | Cybersecurity | SEO and Marketing | API Integration
 
-**Join the community:** [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
+**Join our community on Telegram:** [t.me/+Qt_eFvkb2rliMzNh](https://t.me/+Qt_eFvkb2rliMzNh)
 
-[Services](https://swifttechco.com/services) | [About](https://swifttechco.com/about) | [Partnerships](https://swifttechco.com/partnerships) | [Referral Program](https://swifttechco.com/referral) | [Influencers](https://swifttechco.com/influencers) | [Blog](https://swifttechco.com/blog) | [Contact](https://swifttechco.com/contact)
+[Home](https://www.swifttechco.com) | [Services](https://www.swifttechco.com/services) | [Careers](https://www.swifttechco.com/careers) | [Referral Program](https://www.swifttechco.com/referral) | [Influencers](https://www.swifttechco.com/influencers) | [About](https://www.swifttechco.com/about) | [Contact](https://www.swifttechco.com/contact)
+
+**Connect**
+
+- Website: [swifttechco.com](https://www.swifttechco.com)
+- LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
+- LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
+- X: [@MrOladoke](https://x.com/MrOladoke)
+- Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
+- Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
+- Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
