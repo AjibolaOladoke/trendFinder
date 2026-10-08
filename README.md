@@ -2,7 +2,7 @@
 
 ## Images
 
-[![trendFinder](https://opengraph.githubassets.com/1/https://github.com/ericciarla/trendFinder)](https://www.swifttechco.com)
+[![trendFinder](https://opengraph.githubassets.com/1/ericciarla/trendFinder)](https://www.swifttechco.com)
 
 
 **Stay on top of trending topics on social media  all in one place.**
