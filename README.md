@@ -1,19 +1,12 @@
-# Trend Finder 🔦
+# trendFinder
+
+## What This Is
+
+We keep a working index for product and engineering, and trendFinder is the entry that collects our notes, examples and fixes. It reflects how Swift Tech Co. actually uses this in builds and client work.
 
 ## Images
 
-[![trendFinder](https://opengraph.githubassets.com/1/ericciarla/trendFinder)](https://www.swifttechco.com)
-
-
-**Stay on top of trending topics on social media  all in one place.**
-
-Trend Finder collects and analyzes posts from key influencers, then sends a Slack or Telegram notification when it detects new trends or product launches. This has been a complete game-changer for the Firecrawl marketing team by:
-
-- **Saving time** normally spent manually searching social channels
-- **Keeping you informed** of relevant, real-time conversations
-- **Enabling rapid response** to new opportunities or emerging industry shifts
-
-_Spend less time hunting for trends and more time creating impactful campaigns._
+[![trendFinder](images/preview.png)](https://github.com/Swift-Tech-Co)
 
 ## Watch the Demo & Tutorial video
 
@@ -166,14 +159,22 @@ AI Automation | FinTech Platforms | Custom Software and Mobile Apps | SaaS Platf
 
 **Join our community on Telegram:** [t.me/+Qt_eFvkb2rliMzNh](https://t.me/+Qt_eFvkb2rliMzNh)
 
-[Home](https://www.swifttechco.com) | [Services](https://www.swifttechco.com/services) | [Careers](https://www.swifttechco.com/careers) | [Referral Program](https://www.swifttechco.com/referral) | [Influencers](https://www.swifttechco.com/influencers) | [About](https://www.swifttechco.com/about) | [Contact](https://www.swifttechco.com/contact)
+Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: [swifttechco.com](https://www.swifttechco.com)
+- Website: swifttechco.com
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [ericciarla/trendFinder](https://github.com/ericciarla/trendFinder) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
