@@ -6,11 +6,11 @@ We keep a working index for product and engineering, and trendFinder is the entr
 
 ## Images
 
-[![trendFinder](images/preview.png)](https://github.com/Swift-Tech-Co)
+[![trendFinder](images/preview.png)](https://github.com/Swift-Tech-Co/trendFinder)
 
 ## Watch the Demo & Tutorial video
 
-[![Thumbnail](https://i.ytimg.com/vi/puimQSun92g/hqdefault.jpg)](https://swifttechco.com)
+[![Thumbnail](https://i.ytimg.com/vi/puimQSun92g/hqdefault.jpg)](https://github.com/Swift-Tech-Co/trendFinder)
 
 Learn how to set up Trend Finder and start monitoring trends in this video!
 
@@ -70,10 +70,10 @@ X_API_BEARER_TOKEN=your_twitter_api_bearer_token_here
 NOTIFICATION_DRIVER=telegram
 
 # Required (if NOTIFICATION_DRIVER is "slack"): Incoming Webhook URL from Slack for notifications
-SLACK_WEBHOOK_URL=https://swifttechco.com
+SLACK_WEBHOOK_URL=https://github.com/Swift-Tech-Co/trendFinder
 
 # Required (if NOTIFICATION_DRIVER is "telegram"): Incoming Webhook URL from Telegram for notifications
-Telegram_WEBHOOK_URL=https://swifttechco.com
+Telegram_WEBHOOK_URL=https://github.com/Swift-Tech-Co/trendFinder
 ```
 
 ## Getting Started
@@ -163,13 +163,21 @@ Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: swifttechco.com
+- Website: https://github.com/Swift-Tech-Co/trendFinder
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [ericciarla/trendFinder](https://github.com/ericciarla/trendFinder) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
 
 ## Sources
 
